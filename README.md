@@ -17,4 +17,4 @@ url is formatted like this
 
 since the `BASE_URL` in this project is `http://oidc.local` and has `TestController` with `paramAction`, we can type this
 `http://oidc.local/src/test/param/anythingYouWantHere`
-[![URL Example](https://github.com/Droppledev/apl-oauth2/blob/master/image.png)]
+![URL Example](https://github.com/Droppledev/apl-oauth2/blob/master/image.png)
