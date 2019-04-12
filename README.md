@@ -15,5 +15,5 @@ you can register your modules in `src/apps/config/modules.php`
 url is formatted like this
 `BASE_URL/src/{module_name}/{controller_name}/{action_name}/{params}`
 
-since the `BASE_URL` in this project is `http://oidc.local` and have `TestController` with `paramAction`, we can type this
+since the `BASE_URL` in this project is `http://oidc.local` and has `TestController` with `paramAction`, we can type this
 `http://oidc.local/src/test/param/anythingYouWantHere`
