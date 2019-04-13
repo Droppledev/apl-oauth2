@@ -1,5 +1,8 @@
 {
     "require": {
         "league/oauth2-server": "^7.3"
+    },
+    "require-dev": {
+        "phalcon/ide-stubs": "^3.4"
     }
 }

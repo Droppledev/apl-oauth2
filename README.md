@@ -8,7 +8,7 @@ OAuth2 with Clean Architecture and Phalcon for Software Architecture Class
 4. DONE !
 
 # Module
-There's a module named `oauth` in  `src/apps/modules`, you can add more modules in there
+There's a module named `oauth` in  `src/apps/modules`, you can add more modules there
 you can register your modules in `src/apps/config/modules.php`
 
 #URL
